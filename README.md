@@ -31,6 +31,6 @@ To run this project successfully in your Google Colab environment, ensure the fo
 
 keras_model.h5: The exported TensorFlow/Keras model file containing the trained weights.
 
-labels.txt: The text file containing the indexed class names (0 cars, 1 baiks).
+labels.txt: The text file containing the indexed class names.
 
-test_image.jpg: Any target image you want the model to test and classify.
+image.jpg: Any target image you want the model to test and classify.
